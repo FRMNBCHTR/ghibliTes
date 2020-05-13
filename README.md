@@ -1,3 +1,3 @@
 # ghibliTes
-# This application for tes
+# This application for testing
 # Thank you
